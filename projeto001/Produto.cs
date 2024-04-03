@@ -5,4 +5,14 @@ class Produto{
     public int Quantidade{get; set;}
     public string Marca{get;set;}
     public string Categoria{get; set;}
+
+    public Produto(string NomeProduto, int codigo, float preco, int quantidade){
+        
+        NomeProduto = NomeProduto;
+        Codigo = codigo;
+        Preco = preco;
+        Quantidade = quantidade;
+
+    }
+
 }
