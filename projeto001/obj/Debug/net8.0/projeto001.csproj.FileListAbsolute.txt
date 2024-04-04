@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\bin\Debug\net8.0\projeto001.exe
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\bin\Debug\net8.0\projeto001.deps.json
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\bin\Debug\net8.0\projeto001.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\bin\Debug\net8.0\projeto001.dll
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\bin\Debug\net8.0\projeto001.pdb
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.sourcelink.json
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.dll
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\refint\projeto001.dll
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.pdb
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\projeto001.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\MeusProjetos\CSharpPractice\projeto001\obj\Debug\net8.0\ref\projeto001.dll
